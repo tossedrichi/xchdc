@@ -1,0 +1,19 @@
+#Maven
+target/
+
+#Eclipse
+.classpath
+.project
+.settings/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ 
+# Linux
+#.*
+#!.gitignore
+#!.htaccess
+#*~

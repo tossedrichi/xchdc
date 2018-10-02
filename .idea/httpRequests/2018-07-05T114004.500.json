@@ -1,0 +1,8 @@
+{
+  "timestamp": 1530812404272,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "org.springframework.dao.InvalidDataAccessApiUsageException",
+  "message": "Required input parameter 'TABLE_RETURN_VALUE' is missing",
+  "path": "/consultaAvance"
+}

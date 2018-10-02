@@ -1,0 +1,8 @@
+{
+  "timestamp": 1530642538876,
+  "status": 400,
+  "error": "Bad Request",
+  "exception": "org.springframework.web.bind.MissingServletRequestParameterException",
+  "message": "Required String parameter 'AppKey' is not present",
+  "path": "/consultaAvanceCobranzadash"
+}
